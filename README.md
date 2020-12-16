@@ -1,6 +1,4 @@
-# Adaptavist React Word Count Challenge
-
-> This project is build for Adaptavist hiring process.
+# React Word Count Challenge
 
 > The main objective of this application is to count the word and its frequency.
 
