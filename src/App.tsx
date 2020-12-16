@@ -28,7 +28,7 @@ function App() {
 
    return (
       <div className="App">
-         <Title title="Adaptavist Word Count Challenge" />
+         <Title title="Word Count Challenge" />
          <TextArea onChange={handleChange} />
          <div>
             <ToogleSort
